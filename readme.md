@@ -15,10 +15,11 @@ The objectives of this sessions are:
 
 #### Presentation 1: Vectors & Matrix, Features and Labels with Phython Arrays
 
-Duration: 
+Date and Duration: 
+
+Objective
 
 Literature:
-
 - sdf
 - sdfsd
 

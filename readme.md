@@ -17,17 +17,7 @@ The objectives of this sessions are:
 
 Date and Duration: 
 
-Objective
-
-Literature:
-- sdf
-- sdfsd
-
-Hints:
-
-- asf
-
----
+Details: 
 
 ### Session 2: Data Analysis in Phython
 
@@ -35,15 +25,8 @@ Hints:
 
 Duration: 
 
-Literature:
+Details:
 
-- sdf
-- sdfsd
-
-Hints:
-
-- asf
-- 
 
 ### Session 3: Pandas and Dataframes
 

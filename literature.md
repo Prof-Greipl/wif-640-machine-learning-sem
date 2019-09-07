@@ -19,7 +19,6 @@ The complete reference. We need only a limited number of language elements. most
 ### Numpy
 
 ###### [N1] https://numpy.org/devdocs/user/index.html
-
 The use Numpy to manage matrices and vectors. Focus on https://numpy.org/devdocs/user/basics.creation.html and https://numpy.org/devdocs/user/basics.rec.html
 
 ### Pandas
@@ -37,27 +36,21 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 ### Keras
 
 ###### [K1] https://keras.io/#getting-started-30-seconds-to-keras
-
 Keras is a high-level neural networks API, written in Python. It allows us to quickly develop ML models.
 
 # Text Books, Articles and Videos
 ---
 ###### [FRA] https://www.youtube.com/watch?v=fMcjV8xwapk (mandatory)
-
 Watch this, to understand the key terminology. Part of the Google ML crash course.
 
 ###### [NIE] http://neuralnetworksanddeeplearning.com/about.html
-
 A excellent on-line book by Michael Nielsen. I will exactly define the mandatory contents in the course.
 
 ###### [3B1] https://youtu.be/aircAruvnKk (mandatory)
-
 You *must* watch this before diving into the course. It serves as a background of the whole course.
 
 ###### [SMO] https://alex.smola.org/drafts/thebook.pdf
-
 *Introduction to Machine Learning* by Alex Smola. Very good in highlighting the mathematical background.
 
 ###### [GML] https://developers.google.com/machine-learning/crash-course/
-
 A brilliant high-level source to dive into ML. 

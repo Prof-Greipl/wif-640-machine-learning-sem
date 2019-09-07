@@ -1,46 +1,15 @@
 # Overview
 
+[List of Presentations](https://colab.research.google.com/drive/10tAm1SNjxSlRvvPDmmVCzAk_hgKcVNQV)
+
+[Online Lietrature and Documenation relevant for all participants](literature)
 ## Block A: Dataprocessing and  Datanalysis in Phython 
 
-### Session 1: Introduction
-
-The objectives of this sessions are:
-
-- xxx
-- 
-
----
+### Session 1 (xx.xx.2019) : Introduction
 
 ### Session 2: Data Analysis in Phython
 
-#### Presentation 1: Vectors & Matrix, Features and Labels with Phython Arrays
-
-Duration: 
-
-Literature:
-
-- sdf
-- sdfsd
-
-Hints:
-
-- asf
-
----
-
 ### Session 2: Data Analysis in Phython
 
-#### Presentation 1: Vectors & Matrix, Features and Labels with Phython Arrays
 
-Duration: 
-
-Literature:
-
-- sdf
-- sdfsd
-
-Hints:
-
-- asf
-- 
 

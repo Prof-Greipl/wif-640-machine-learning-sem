@@ -11,13 +11,9 @@ This document outlines the most important tools we use in the course. Make sure,
 ### Phython
 
 ###### [P1] https://www.w3schools.com/python/
-
 A simple introduction to Phython. Your first choice to understand, how things work, but limited in scope
 
-------
-
 ###### [P2] https://docs.python.org/3/reference/index.html
-
 The complete reference. We need only a limited number of language elements. mostly in chapters 7. and 8. 
 
 ### Numpy
@@ -44,10 +40,8 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 
 Keras is a high-level neural networks API, written in Python. It allows us to quickly develop ML models.
 
-
-
 # Text Books, Articles and Videos
-
+---
 ###### [FRA] https://www.youtube.com/watch?v=fMcjV8xwapk (mandatory)
 
 Watch this, to understand the key terminology. Part of the Google ML crash course.

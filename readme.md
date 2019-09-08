@@ -1,15 +1,11 @@
 # Overview
 
-[List of Presentations](https://colab.research.google.com/drive/10tAm1SNjxSlRvvPDmmVCzAk_hgKcVNQV)
+[Assignments](https://colab.research.google.com/drive/10tAm1SNjxSlRvvPDmmVCzAk_hgKcVNQV)
 
-[Online Lietrature and Documenation relevant for all participants](literature)
-## Block A: Dataprocessing and  Datanalysis in Phython 
+Information on all individual assignments. 
 
-### Session 1 (xx.xx.2019) : Introduction
+[Tools, Articles, Links & Videos (relevant for all participants)](literature.md)
 
-### Session 2: Data Analysis in Phython
-
-### Session 2: Data Analysis in Phython
-
+All participants  *must* work through all material markes as mandatory. 
 
 

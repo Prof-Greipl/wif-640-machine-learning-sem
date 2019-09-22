@@ -3,9 +3,9 @@
 The module is diving into the concepts and algorithms behind machine learning.  The module is structured by colab notebooks, that can be found in the folder ```colab_notebooks```. 
 
 
-
-#### Syllabus
 ---
+#### Syllabus
+
 
 The contents is structured in three blocks. In **Block A** you will get introduced to  the tools we neeed to load, analyze and change data sets. In **Block B**, the main block, we will analyse the implementation of a simple neural network in Phython. All the code is available, so you will not need to do lots of programming - but you need to understand the code. Finally we will have a look into Keras in **Block C**
 

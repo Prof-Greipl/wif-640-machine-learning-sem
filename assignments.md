@@ -1,18 +1,16 @@
 # Assignments
 
+Die Bezeichnungen IML_### beziehen sich auf die Colab-Notebooks.
+
 ## (A1) Vectors & Matrix, Features and Labels with Phython Arrays (IML_110)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr valign="top">
     <td  style=vertical-align:top>
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>haben die Inhalte vom IML_110 verstanden</li>
 	<li>wissen, weshalb diese Inhalte wesentlich sind</li>
@@ -44,14 +42,10 @@ Die Teilnehmer
 </tr>
 </table>
 
-``
+
 
 ## (A2) Pandas (IML_120)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -94,10 +88,6 @@ Die Teilnehmer
 
 ## (A3) Matplotlib: Datavisualization
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -140,10 +130,6 @@ Stimmen Sie sich mit dem Bearbeiter von (A2) und visualisieren Sie eine relevant
 
 ## (A4) Datasets AUTO-MPG und MNIST (IML_200 & IML_201)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -186,10 +172,6 @@ Die Teilnehmer
 
 ## (A5) A single neuron (IML_301)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -233,10 +215,6 @@ Die Teilnehmer
 
 ## (A6) A Neural Network Layer (IML_302)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -280,10 +258,6 @@ Die Teilnehmer
 
 ## (A7) Neural Network and Forward Propagation (IML_303)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -327,10 +301,6 @@ Die Teilnehmer
 
 ## (A8) Adding a Loss Function (IML_304)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -374,10 +344,6 @@ Die Teilnehmer
 
 ## (A9) Backward Propagation and Training (Part A)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -420,10 +386,6 @@ Die Teilnehmer
 
 ## (A10) Backward Propagation and Training (Part B, IML_305)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -465,17 +427,13 @@ Die Teilnehmer
 
 ## (A11) Add A Training Loop (IML_306)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>verstehen relevanten Erweiterungen des Codes in IML_306</li>
     <li>verstehen die Ergebnisse des Abschnitts <i>Test</i> in IML_305</li>
@@ -510,18 +468,14 @@ Die Teilnehmer
 
 ## (A12) Visualization of Training Process (IML_307)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>verstehen relevanten Erweiterungen des Codes in IML_307</li>
 </ul>
@@ -555,17 +509,13 @@ Die Teilnehmer
 
 ## (A13) Early-Stopping (IML_308)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>könne den Begriff Early-Stopping definieren</li>
     <li>verstehen, welchen Zweck Early-Stopping hat</li>
@@ -603,17 +553,13 @@ Die Teilnehmer
 
 ## (A14) Feature-Scaling (IML_309)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>können den Begriff Feature-Scaling definieren</li>
     <li>verstehen, welchen Zweck Feature-Scaling hat</li>
@@ -650,9 +596,7 @@ Die Teilnehmer
 
 ## (A15) Case Study: AUTO-MPG with LANET (IMG_310)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
+</th>
 </tr>
 <!--- Start of table row -->
 <tr>
@@ -660,7 +604,7 @@ Die Teilnehmer
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>verstehen die Case Study AUTO-MPG</li>
     <li>können die Ergebnisse interpretieren</li>
@@ -700,17 +644,13 @@ Note: IML_311 is not used in this module
 
 ## (A16) Training Set and Validation Set (IML_312)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>verstehen die beiden Begriffe</li>
     <li>kennen den Zweck der beiden Sets</li>
@@ -746,17 +686,13 @@ Die Teilnehmer
 
 ## (A17) Adding Validation Loss (IML_313)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>verstehen die Erweiterung des LANET Codes um Validation Loss im IML_313</li>
     <li>können die Testergebisse interpretieren</li>
@@ -791,17 +727,13 @@ Die Teilnehmer
 
 ## (A18) Adding Stochastic Gradient Descent (IML_314)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>verstehen den Begriff Stochastik Gradient Descen</li>
     <li>verstehen die Erweiterung des LANET Codes um das SGD Vergahren im IML_314</li>
@@ -837,17 +769,13 @@ Die Teilnehmer
 
 ## (A19) Case Study: Handwritten Digits (MNIST) with LANET (IML_400)
 <table>
-<tr>
-<th>&nbsp;</th>
-<th>&nbsp;</th>
-</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
         <b>Ziel</b>
     </td>
 <td>
-Die Teilnehmer
+Die Teilnehmerinnen und Teilnehmer
 <ul>
     <li>verstehen die Anwednung von LANET in IML_400</li>
 	<li>können die Ergebnisse interpretieren</li>

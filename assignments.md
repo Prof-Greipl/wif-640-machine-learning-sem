@@ -2,6 +2,10 @@
 
 ## (A1) Vectors & Matrix, Features and Labels with Phython Arrays (IML_110)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr valign="top">
     <td  style=vertical-align:top>
@@ -44,6 +48,10 @@ Die Teilnehmer
 
 ## (A2) Pandas (IML_120)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -86,6 +94,10 @@ Die Teilnehmer
 
 ## (A3) Matplotlib: Datavisualization
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -128,6 +140,10 @@ Stimmen Sie sich mit dem Bearbeiter von (A2) und visualisieren Sie eine relevant
 
 ## (A4) Datasets AUTO-MPG und MNIST (IML_200 & IML_201)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -170,6 +186,10 @@ Die Teilnehmer
 
 ## (A5) A single neuron (IML_301)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -213,6 +233,10 @@ Die Teilnehmer
 
 ## (A6) A Neural Network Layer (IML_302)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -256,6 +280,10 @@ Die Teilnehmer
 
 ## (A7) Neural Network and Forward Propagation (IML_303)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -299,6 +327,10 @@ Die Teilnehmer
 
 ## (A8) Adding a Loss Function (IML_304)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -342,6 +374,10 @@ Die Teilnehmer
 
 ## (A9) Backward Propagation and Training (Part A)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -384,6 +420,10 @@ Die Teilnehmer
 
 ## (A10) Backward Propagation and Training (Part B, IML_305)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -424,8 +464,11 @@ Die Teilnehmer
 
 
 ## (A11) Add A Training Loop (IML_306)
-
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -466,8 +509,11 @@ Die Teilnehmer
 
 
 ## (A12) Visualization of Training Process (IML_307)
-
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -509,6 +555,10 @@ Die Teilnehmer
 
 ## (A13) Early-Stopping (IML_308)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -553,6 +603,10 @@ Die Teilnehmer
 
 ## (A14) Feature-Scaling (IML_309)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -596,6 +650,10 @@ Die Teilnehmer
 
 ## (A15) Case Study: AUTO-MPG with LANET (IMG_310)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -642,6 +700,10 @@ Note: IML_311 is not used in this module
 
 ## (A16) Training Set and Validation Set (IML_312)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -684,6 +746,10 @@ Die Teilnehmer
 
 ## (A17) Adding Validation Loss (IML_313)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -725,6 +791,10 @@ Die Teilnehmer
 
 ## (A18) Adding Stochastic Gradient Descent (IML_314)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">
@@ -767,6 +837,10 @@ Die Teilnehmer
 
 ## (A19) Case Study: Handwritten Digits (MNIST) with LANET (IML_400)
 <table>
+<tr>
+<th>&nbsp;</th>
+<th>&nbsp;</th>
+</tr>
 <!--- Start of table row -->
 <tr>
     <td valign="top">

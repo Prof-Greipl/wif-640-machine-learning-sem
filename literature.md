@@ -3,7 +3,7 @@
 This document outlines the most important tools we use in the course. Make sure, that you dive into all sources notes as mandatory. Other sources might only be relevant for participants working on their individual assignment on the topic.
 
 ## Languages and Tools 
----
+
 ### Colab
 
 - [C1] https://youtu.be/inN8seMm7UI (mandatory)
@@ -38,7 +38,7 @@ Keras is a high-level neural networks API, written in Python. It allows us to qu
 - [K1] https://keras.io/#getting-started-30-seconds-to-keras
 
 # Text Books, Articles and Videos
----
+
 - [FRA] https://www.youtube.com/watch?v=fMcjV8xwapk (mandatory)
 Watch this, to understand the key terminology. Part of the Google ML crash course.
 

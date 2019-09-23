@@ -1,18 +1,16 @@
-# Overview
+# WIF 640 Einführung in Maschinelles Lernen
 
-The module is diving into the concepts and algorithms behind machine learning.  The module is structured by colab notebooks, that can be found in the folder ```colab_notebooks```. 
+[Hochschule für angewandt Wissenschaften Landshut](http://haw-landshut.de)
+
+Instructor: Prof. Dr. Dieter Greipl
+
+#### Overview
+
+The module is diving into the concepts and algorithms behind machine learning, especially deep learning.  It is designed as an introduction course, so no prior knowlede in ML is needed.
+
+The module is structured in three blocks. In **Block A** you will get introduced to  tools we need to load, analyze, visualize and prepare data sets. In **Block B**, the main block, we will analyse the implementation of a simple neural network in Phython. All the code is available, so you will not need to do lots of programming - but you need to understand the code. Finally we will dive into some use cases in **Block C**
 
 ---
-#### Syllabus
-
-
-The module is structured in three blocks. In **Block A** you will get introduced to  the tools we need to load, analyze, visualize and prepare data sets. In **Block B**, the main block, we will analyse the implementation of a simple neural network in Phython. All the code is available, so you will not need to do lots of programming - but you need to understand the code. Finally we will dive into some use cases in **Block C**
-
----
-#### Language
-
-The module and your presentations will be held in German language. Materials however are in English.
-
 ---
 #### Individual Assignments
 
@@ -27,3 +25,10 @@ Please find a list of [Tools, Articles, Links & Videos (relevant for all partici
 #### Schedule
 
 The schedule will be announced in the first session. 
+
+
+
+#### Credits 
+
+Content, structure and  tools  where influenced by the great course of [Heff Heaton](https://github.com/jeffheaton/t81_558_deep_learning) at Washington University. Many thanks, Jeff! I tried to mention the most relevant links in the *Tools, Articles, Videos* chapter.
+

@@ -3,9 +3,11 @@
 Please note:
 - This chapter is mostly written in German language, as it targets a German speaking course.
 
-- Grundsätzlich sind alle _neuen_ Inhalte der Colab Notebooks zu erläutern.
-
 - Die Bezeichnungen IML_### beziehen sich auf die Colab-Notebooks im Ordner ``colab_notebooks``. 
+
+- Grundsätzlich sind *alle* _gegenüber den vorhergehenden Assignments neuen_ *Inhalte* der Colab Notebooks zu erläutern.
+
+- Wenn Sie sich einen Überblick über die Inhalte Ihres Assignments machen wollen, dann stöbern sie einfach etwas in den Colab Notebooks.
 
 - Ihre Vorträge erfolgen in deutscher Sprache.  Unterlagen können wahlweise durchgängig in deutscher oder englischer Sprache erstellt werden.
 

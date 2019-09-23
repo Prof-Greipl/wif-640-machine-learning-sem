@@ -10,13 +10,13 @@ The module is diving into  concepts and algorithms of machine learning, especial
 
 If you want to get a quite detailed overview on some of the contents, watch this great [video](https://www.youtube.com/watch?v=aircAruvnKk&t=246s) of the 3BLUE1BROWNSERIES. 
 
-The module is structured in three blocks. In **Block A** you will get introduced to  tools we need to load, analyze, visualize and prepare data sets. In **Block B**, the main block, we will analyse the (from scratch) implementation of a simple neural network in Phython (called *LANET*). All the code is already available, so you will not need to do lots of programming - but you need to understand the code. Finally we will dive into some use cases in **Block C**
+The module is structured in three blocks. In **Block A** you will get introduced to  tools needed to load, analyze, visualize and prepare data sets. In **Block B**, the main block, we will walk through the (from scratch) implementation of a simple neural network generator in Phython (called *LANET*). All the code is already available, so you will not need to do lots of programming - but you need to *understand* the code. Finally we will dive into some use cases in **Block C**
 
 
 
 #### Individual Assignments
 
-Please find the list of [Assignments](assignments.md) here.  Pls, note, that the final decision on the assignment is done on Oct-07.
+Please find the list of [Assignments](assignments.md) here.  Pls. note, that the final decision on your  assignment is done on in the first lecture (Oct-07, 2019)
 
 
 
@@ -34,5 +34,7 @@ The schedule will be announced in the first session.
 
 #### Credits 
 
-Content, structure and  tools  where influenced by the great course of [Heff Heaton](https://github.com/jeffheaton/t81_558_deep_learning) at Washington University. Many thanks, Jeff! I tried to mention the most relevant links in the *Tools, Articles, Videos* chapter.
+Content, structure and  tools  where influenced by the great course of [Heff Heaton](https://github.com/jeffheaton/t81_558_deep_learning) at Washington University. Many thanks, Jeff! 
+
+Regarding other materials I tried to mention the most relevant links in the *Tools, Articles, Videos* chapter.
 

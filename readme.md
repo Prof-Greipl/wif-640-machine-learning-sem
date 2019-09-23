@@ -1,6 +1,6 @@
 # WIF 640 Einführung in Maschinelles Lernen
 
-[Hochschule für angewandte Wissenschaften Landshut](http://haw-landshut.de)
+[Hochschule für angewandte Wissenschaften Landshut](https://www.haw-landshut.de)
 
 Instructor: Prof. Dr. Dieter Greipl
 

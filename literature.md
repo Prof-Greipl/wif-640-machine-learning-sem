@@ -1,5 +1,8 @@
 # Literature and Links for WIF 640
 
+> Note: All participants  *must* work through all material marked as mandatory. 
+>
+
 This document outlines the most important tools we use in the course. Make sure, that you dive into all sources notes as mandatory. Other sources might only be relevant for participants working on their individual assignment on the topic. 
 
 ## Languages and Tools 

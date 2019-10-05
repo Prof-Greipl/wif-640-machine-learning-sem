@@ -24,7 +24,7 @@ Please note:
 
 ## Block A: Loading, Analyzing and Preparing Data
 
-### (A1) Vectors & Matrices, Features & Labels with Phython  (IML_110)
+### (A01) Vectors & Matrices, Features & Labels with Phython  (IML_110)
 <table>
 <!--- Start of table row -->
 <tr valign="top">
@@ -66,7 +66,7 @@ Die Teilnehmerinnen und Teilnehmer
 
 
 
-### (A2) Pandas (IML_120)
+### (A02) Pandas (IML_120)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -108,7 +108,7 @@ Die Teilnehmer
 
 
 
-### (A3) Matplotlib: Datavisualization
+### (A03) Matplotlib: Datavisualization
 <table>
 <!--- Start of table row -->
 <tr>
@@ -151,7 +151,7 @@ Stimmen Sie sich mit dem Bearbeiter von (A2) und visualisieren Sie eine relevant
 
 
 
-### (A4) Datasets AUTO-MPG und MNIST (IML_200 & IML_201)
+### (A04) Datasets AUTO-MPG und MNIST (IML_200 & IML_201)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -197,7 +197,7 @@ Die Teilnehmer
 
 ## Block B: Developing LANET (Landshut Neural Network)
 
-### (B1) A single neuron (IML_301)
+### (B01) A single neuron (IML_301)
 
 <table>
 <!--- Start of table row -->
@@ -241,7 +241,7 @@ Die Teilnehmer
 
 
 
-### (B2) A Neural Network Layer (LANET v0.1, IML_302)
+### (B02) A Neural Network Layer (LANET v0.1, IML_302)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -284,7 +284,7 @@ Die Teilnehmer
 
 
 
-### (B3) Neural Network and Forward Propagation (LANET v0.2, IML_303)
+### (B03) Neural Network and Forward Propagation (LANET v0.2, IML_303)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -327,7 +327,7 @@ Die Teilnehmer
 
 
 
-### (B4) Loss Functions (LANET v0.3, IML_304)
+### (B04) Loss Functions (LANET v0.3, IML_304)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -370,7 +370,7 @@ Die Teilnehmer verstehen
 
 
 
-### (B5) Backward Propagation and Training (Part A)
+### (B05) Backward Propagation and Training (Part A)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -415,7 +415,7 @@ Die Teilnehmer
 
 
 
-### (B6) Backward Propagation (Part B, LANET v0.4 IML_305)
+### (B06) Backward Propagation (Part B, LANET v0.4 IML_305)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -457,7 +457,7 @@ Die Teilnehmer
 
 
 
-### (B7) Training Loop (LANET v1.0, IML_306)
+### (B07) Training Loop (LANET v1.0, IML_306)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -498,7 +498,7 @@ Die Teilnehmerinnen und Teilnehmer
 
 
 
-### (B8) Visualization of Training Process (LANET v1.1, IML_307)
+### (B08) Visualization of Training Process (LANET v1.1, IML_307)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -539,7 +539,7 @@ Die Teilnehmerinnen und Teilnehmer
 
 
 
-### (B9) Early-Stopping (LANET v1.2, IML_308)
+### (B09/B10) Early-Stopping (LANET v1.2, IML_308)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -575,6 +575,7 @@ Die Teilnehmerinnen und Teilnehmer
 <td>
 <ul>
     <li>der Abschnitt <i>Analyze Gradient Explosion</i> kann ignoriert werden</li>
+    <li>Der Inhalt dieses Assignments umfasst auch B10</li>
 </ul>
 </td>
 </tr>
@@ -583,7 +584,7 @@ Die Teilnehmerinnen und Teilnehmer
 
 
 
-### (B10) Feature-Scaling (IML_309)
+### (B09/10) Feature-Scaling (IML_309)
 <table>
 <!--- Start of table row -->
 <tr>
@@ -618,7 +619,7 @@ Die Teilnehmerinnen und Teilnehmer
   </td>
 <td>
 <ul>
-    <li>keine</li>
+    <li>Der Inhalt dieses Assignments umfasst auch B9</li>
 </ul>
 </td>
 </tr>

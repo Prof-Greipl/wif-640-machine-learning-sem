@@ -13,7 +13,6 @@ If you want to get a quite detailed overview on some of the contents, watch this
 The module is structured in three blocks. In **Block A** you will get introduced to  tools needed to load, analyze, visualize and prepare data sets. In **Block B**, the main block, we will walk through the (from scratch) implementation of a simple neural network generator in Phython (called *Lanet*). All the code is already available, so you will not need to do lots of programming - but you need to *understand* the code. The total code base of Lanet is 300 lines, including blank lines and comments. Finally we will dive into some use cases in **Block C**
 
 
-
 #### Individual Assignments
 
 Please find the list of [Assignments](assignments.md) here.  Pls. note, that the final decision on your  assignment is done on in the first lecture (Oct-07, 2019)
@@ -28,7 +27,7 @@ Please find a list of [Tools, Articles, Links & Videos (relevant for all partici
 
 #### Schedule
 
-The schedule will be announced in the first session. 
+The [schedule](schedule.md) will be finalized in the first session.  
 
 
 
